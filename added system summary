@@ -7,6 +7,10 @@
 - Jullian T. Medalla
 
 
+UPV CRS 2.0 is a proposed modernization of the current Computerized Registration System for the University of the Philippines Visayas. This web application, designed by Yuan's Angels, aims to streamline the registration process, increase user accessibility, and guarantee the complete security of teacher and student data. Our goal is to create a responsive, crash-resistant system that eliminates conflicts and bottlenecks that are frequently encountered during periods of high registration.
+In addition to improving backend stability, UPV CRS 2.0 addresses the system's severe UI/UX problems. The current platform sufferers from extreme information overload, outdated layouts, and a total absence of visual hierarchy. Our proposed solution will have a clear and user-friendly dashboard by utilizing React and Tailwind CSS. The overpowering walls of text and links will be replaced with simple navigation in this modern transformation. It aims to guarantee that faculty and students can handle their academic tasks quickly and without frustration.
+
+
 
 ## Tech Stack
 ### Frontend Tools
