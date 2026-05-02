@@ -35,3 +35,13 @@ We suggest a hybrid hosting strategy that makes use of both local university inf
 **Supabase**: Supabase is the open source Postgres development platform that provides a modern, fully managed experience for developers and enterprises. At its core is a scalable, production-ready Postgres database, enhanced with an integrated suite of tools including authentication, storage, edge functions, realtime updates, and vector search. Supabase eliminates the overhead of stitching together backend services and enables teams to focus on building differentiated applications. Developers can launch a project in minutes with CLI, SDKs, or UI, and get access to an instantly available REST and GraphQL API. Enterprise-grade features such as high availability, point-in-time recovery, read replicas, role-based access control, audit logging, and multi-region deployments are available by default. Supabase supports a wide range of Postgres extensions including pgvector, postgis, and Foreign Data Wrappers, and offers full transparency and flexibility through open-source tooling and optional self-hosting. Designed for scale and simplicity, Supabase is trusted by startups and large organizations alike to run mission-critical workloads in production
 
 *Description from https://www.postgresql.org/support/professional_hosting/asia/*
+
+## Mockups
+### Home
+![Home](img/HomePage.png)
+### Student Information
+![Student Information](img/StudentInformationPage.png)
+### Schedule and Conflict Check
+![Schedule and Conflict Check](img/ScheduleandConflictCheck.png)
+### Grades
+![Grades](img/Grades.png)
